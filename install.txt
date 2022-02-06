@@ -1,0 +1,11 @@
+# in terminal
+pip3 install jupyter-lab
+
+sudo apt-get install jupyter-client
+
+# in R:
+# https://www.datacamp.com/community/blog/jupyter-notebook-r
+IRkernel::installspec()
+
+
+
